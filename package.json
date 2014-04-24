@@ -1,0 +1,7 @@
+{
+  "name": "does-not-work",
+  "main": "does-not-work.html",
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
